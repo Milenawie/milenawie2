@@ -1,7 +1,7 @@
 # Site
 name: "Milena's kitchen"
 title: "Baking recipes you'd love to follow that will change your life!!!"
-description: "very good, would recommend!."
+description: "very good, would recommend!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /mediumish-theme-jekyll
