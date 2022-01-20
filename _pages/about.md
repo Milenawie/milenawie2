@@ -13,7 +13,7 @@ comments: true
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
 <h4>Documentation</h4>
-<p> go to my intergram at <a href="https://www.instagram.com/milena.wnchl/">Milena.wnchl</a>.</p> 
+<p> go to my instagram at <a href="https://www.instagram.com/milena.wnchl/">Milena.wnchl</a>.</p> 
 <p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
 
 <h4>Questions or bug reports?</h4>
